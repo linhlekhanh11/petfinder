@@ -5,8 +5,8 @@ let photosArray = [];
 
 //Pet Finder API
 const count = 10;
-const apiKey = "bDC5qfRJiYYXUWk3QMI12kzXbbNisVTxciIg3mPPz7I";
-const apiUrl = `https://api.unsplash.com/photos/random/?client_id=${apiKey}&count=${count}&query=pet`;
+// const apiKey = "bDC5qfRJiYYXUWk3QMI12kzXbbNisVTxciIg3mPPz7I";
+// const apiUrl = `https://api.unsplash.com/photos/random/?client_id=${apiKey}&count=${count}&query=pet`;
 
 //Helper Function to Set Attributes on DOM Elements
 function setAttribute(element,attributes) {
